@@ -73,7 +73,7 @@ c=$(( c < 70 ? 70 : c ))
 ######## Undocumented Flags. Shhh ########
 # These are undocumented flags; some of which we can use when repairing an installation
 # The runUnattended flag is one example of this
-skipSpaceCheck=false
+skipSpaceCheck=true
 reconfigure=false
 runUnattended=false
 
