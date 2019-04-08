@@ -1,0 +1,2 @@
+172.217.0.0/16 manifest.googlevideo.com
+216.58.0.0/16 manifest.googlevideo.com
